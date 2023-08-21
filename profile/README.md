@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the VerneMQ project!
 
 <!--
 
@@ -12,3 +12,4 @@
 -->
 
 <img src="https://github.com/vernemq/.github/assets/282359/bda4816c-f6c3-422d-a64e-392b29932639" width="400" height="268">
+
