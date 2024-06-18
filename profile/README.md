@@ -14,6 +14,8 @@
 
 <img src="https://github.com/vernemq/.github/assets/282359/bda4816c-f6c3-422d-a64e-392b29932639" width="400" height="268">
 
+## Quick Links
+
 * Documentation: https://docs.vernemq.com/
 * Releases: https://github.com/vernemq/vernemq/releases
 * Latest Release (2.0.1): https://github.com/vernemq/vernemq/releases/tag/2.0.1
